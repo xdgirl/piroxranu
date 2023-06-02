@@ -9,7 +9,7 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 
 
-FIRST_TEXT = f"""★ 𝙏𝙝𝙚OXY 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★
+FIRST_TEXT = f"""★ ™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★
 
 **» ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ:** [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/DESISWAGGERHU/11)
 **» ʀᴀɪᴅ ᴄᴏᴍᴍᴀɴᴅꜱ:** [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/DESISWAGGERHU/12)
