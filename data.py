@@ -292,11 +292,54 @@ RAID = [
     "𝗦𝗨𝗡 𝗦𝗨𝗡 𝗦𝗨𝗔𝗥 𝗞𝗘 𝗣𝗜𝗟𝗟𝗘 𝗝𝗛𝗔𝗡𝗧𝗢 𝗞𝗘 𝗦𝗢𝗨𝗗𝗔𝗚𝗔𝗥 𝗔𝗣𝗡𝗜 𝗠𝗨𝗠𝗠𝗬 𝗞𝗜 𝗡𝗨𝗗𝗘𝗦 𝗕𝗛𝗘𝗝",
     "𝗔𝗕𝗘 𝗦𝗨𝗡 𝗟𝗢𝗗𝗘 𝗧𝗘𝗥𝗜 𝗕𝗘́𝗛𝗘𝗡 𝗞𝗔 𝗕𝗛𝗢𝗦𝗗𝗔 𝗙𝗔𝗔𝗗 𝗗𝗨𝗡𝗚𝗔",
     "𝗧𝗘𝗥𝗜 𝗠𝗔́𝗔̀𝗞𝗢 𝗞𝗛𝗨𝗟𝗘 𝗕𝗔𝗝𝗔𝗥 𝗠𝗘 𝗖𝗛𝗢𝗗 𝗗𝗔𝗟𝗔 🤣🤣💋",
+    "AJA", 
+    "TERI",
+    "MAA", 
+    "KI", 
+    "CHUT", 
+    "FAAD", 
+    "DUNGA", 
+    "HIJDE", 
+    "TERA", 
+    "BAAP", 
+    "HU", 
+    "KIDXX", 
+    "SPEED", 
+    "PAKAD", 
+    "BHEN KE LAUDE", 
+    "AA BETA", 
+    "AAGYA", 
+    "TERI", 
+    "MAA ", 
+    "CHODNE", 
+    "AB", 
+    "TERI ", 
+    "MAA", 
+    "CHUDEGI", 
+    "KUTTE", 
+    "KI", 
+    "TARAH", 
+    "BETA", "TERI", 
+    "MAA", "KE", "BHOSDE", "ME", 
+    "JBL", "KE", "SPEAKER", "DAAL", 
+    "KAR", "BASS", "BOOSTED", "SONG", 
+    "SUNUNGA", "PURI", "RAAT", "LAGATAR", 
+    "TERI", "MAA", "KE", "SATH", "SEX", "KARUNGA🔥", 
+    "TERI", "MAA", "KE", "BOOBS", 
+    "DABAUNGA","XXX","TERI","MAA","KAA",
+    "CHUT","MARU","RANDI","KEE","PILEE",
+    "TERI","MAA","KAA","BHOSDAA","MARU","SUAR","KEE","CHODE","TERI","MAAA","KEEE","NUDES","BECHUNGA",
+    "RANDI","KEE","PILLE","TERI","MAAA","CHODU","SUAR","KEEE","PILEE","TERIII","MAAA","DAILYY","CHUDTTI","HAII",
+    "MADHARCHOD","AUKAT","BANAA","LODE",
+    "TERAA","BAAP","HUU","TERI","GFF","KAA","BHOSDAA","MARUU","MADHARCHOD","TERI ","NANAI","KAA","CHUTT","MARU","TERII","BEHEN","KAAA","BHOSDAA","MARU","RANDII","KEEE","CHODE","TERI","DADI",
+    "KAAA","BOOR","GARAM","KARR","TERE","PUREE","KHANDAN","KOOO","CHODUNGAA","BAAP","SEE","BAKCHODI",
+    "KAREGAA","SUARR","KEEE","PILLEE","NAAK","MEEE","NETAA","BAAP","KOO","KABHII","NAAH","BOLNAA","BETAA","CHUSS","LEEE",
+    "MERAA","LODAA","JAISE","ALUU","KAAA","PAKODAA","TERI","MAAA","BEHEN","GFF","NANI","DIIN","RAAT","SOTEE","JAGTEE","PELTAA","HUUU","LODEE","CHAAR","CHAWNII","GHODEE","PEEE","TUMM","MEREE","LODEE","PEE","TERI","MAA","KAAA","BOOBS","DABATA HU"
 ]
 
 
 THE_ALTS = [5059737154]
-GROUP = [-1001779669612, -1001777776331, "ClAs11thQUIZgrOuP", "AltronChats", "@ClAs11thQUIZgrOuP"]
+GROUP = [-1001779669612, -1001777776331, "@BWANDARLOK", "AltronChats", "@ClAs11thQUIZgrOuP"]
 
 
 PORM = [
