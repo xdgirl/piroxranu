@@ -28,7 +28,7 @@ async def help(client: Client, message: Message):
 
 @Client.on_message(filters.user(OWNER_ID) & filters.command(["sudo"], ["/", ".", "!"]))
 async def add_sudo(_, message: Message):
-       if not message.reply_to_message:
+       if event.sender_id == OWNER_ID:
               await message.reply_text("» ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ !!")
               return
        elif HEROKU_APP_NAME is None:
