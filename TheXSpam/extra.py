@@ -28,7 +28,7 @@ async def help(client: Client, message: Message):
 
 @Client.on_message(filters.user(OWNER_ID) & filters.command(["sudo"], ["/", ".", "!"]))
 async def addsudo(event):
-if event.sender_id == OWNER_ID:
+    if not message.reply_to_message:
         Heroku = heroku3.from_key(HEROKU_API_KEY)
         sudousers = getenv("SUDO_USERS", default=None)
 
