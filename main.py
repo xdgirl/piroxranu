@@ -20,11 +20,11 @@ if __name__ == "__main__":
     for i, CLIENT in enumerate(CLIENTS):
         try:
             CLIENT.start()
-            CLIENT.join_chat("DESISWAGGERHU")
-            CLIENT.join_chat("DESISWAGGERHU")
+            CLIENT.join_chat("BWANDARLOK")
+            CLIENT.join_chat("BWANDARLOK")
             print(f"---> Client {i+1} has been Started...")
         except Exception as e:
             print(e)
 
-    print("⚡ YOUR OXY SPAM USERBOTS DEPLOYED SUCCESSFULLY  ♥️ MY MASTER @PRADHAN ⚡")
+    print("⚡ YOUR 🦋⃟ ᴠͥɪͣᴘͫ 🇴 🇽 𝐘 𝐆 𝐄 𝐍⃝⃝⃪⃕🥀🦋͜͡•─⃛͢ SPAM USERBOTS DEPLOYED SUCCESSFULLY  💗 MY MASTER @PRADHAN ⚡")
     idle()
