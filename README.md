@@ -1,11 +1,11 @@
-<p align="center"><a href="https://t.me/DESISWAGGERHU"><img src="https://graph.org/file/ae522353ddffb830dd83e.jpg"></a></p>
+<p align="center"><a href="https://t.me/BWANDARLOK"><img src="https://graph.org/file/b0825ba6490d2aa6a6afd.jpg"></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
 #  ™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍  🖤
 ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, 
 
-ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 ™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍 🖤](https://t.me/DESISWAGGERHU )
+ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 ™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍 🖤](https://t.me/BWANDARLOK )
 
 ━━━━━━━━━━━━━━━━━━━━━━
 # Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ​ 🚀
